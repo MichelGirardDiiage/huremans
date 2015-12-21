@@ -1,0 +1,2 @@
+It's a Human Resource Management System for Microsoft Technology Club in Harbin Institute of Technology. Users can public new projects or apply for participating projects. Besides, the database can store all the information about one user from he joined into our club to the time when he leave. When he leaves, we will produce a document that contains these information, which may be very useful for him to looking for job.
+The server script of the project is programmed in PHP and MySQL. The server is apache2. The client script is javascript.
